@@ -4,7 +4,9 @@ English [简体中文](README.zh.md)
 
 Probably one of the most fantastic but pratical demo of Conway's Game of Life, based on Javascript, Canvas and dat.GUI.
 
-DEMO
+[DEMO](https://futrime.github.io/Game-of-Life/)
+
+Warning: This DEMO is only available out of Mainland China, if you are currently in Mainland China, please refer to [Chinese README](README.zh.md).
 
 #### Description
 
@@ -18,7 +20,7 @@ The plane is theoretically infinity, but due to the device restrictions, it can 
 
 #### Instructions
 
-* Not interested in configurate the repo manually, you can straighly open the DEMO on FAST.io.
+* Not interested in configurate the repo manually, you can straighly open [the online DEMO](https://futrime.github.io/Game-of-Life/).
 
 1. Modify the parameters beginning with *const* in `script.js`.
 1. Run `index.html`, adjust on the panel top-right.
